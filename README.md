@@ -72,7 +72,7 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 📫 Connect with Me
 
 **Ashish Jha**  
-- GitHub: [yourusername](https://github.com/ashishjha0125)  
+- GitHub:(https://github.com/ashishjha0125)  
 - LinkedIn: https://www.linkedin.com/in/ashish-jha-1585a028b/
 
 
